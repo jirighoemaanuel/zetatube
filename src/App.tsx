@@ -2,7 +2,7 @@ import Nav from './components/Nav.tsx';
 
 function App() {
   return (
-    <div className='text-lg'>
+    <div className=''>
       <Nav></Nav>
       <div className='font-mono'>
         <h1>Hello Emmanuel</h1>
