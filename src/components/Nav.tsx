@@ -1,10 +1,10 @@
 function Nav() {
   return (
-    <nav className='bg-teal-600 h-16 w-full text-white text-lg'>
+    <nav className='bg-teal-600 h-16 w-full text-white text-lg sticky top-0'>
       <div className='max-w-7xl mx-auto h-full flex justify-between items-center'>
         <div className='flex items-center gap-12'>
           <div className=''>
-            <h1 className='text-3xl font-bold tracking-wider'>ZETATUBE</h1>
+            <h1 className='text-3xl font-bold tracking-wider'>ZETAURL</h1>
           </div>
           <ul className='flex gap-8'>
             <li>
