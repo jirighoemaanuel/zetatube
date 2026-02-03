@@ -1,6 +1,5 @@
 import Nav from './components/Nav.tsx';
 import Hero from './components/Hero.tsx';
-import Features from './components/Features.tsx';
 
 function App() {
   return (

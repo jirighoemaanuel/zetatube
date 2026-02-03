@@ -53,12 +53,19 @@ function Hero() {
                 />
               </div>
 
-              <div className='flex gap-4 mb-6 items-end'>
+              <div className='flex gap-4 mb-6'>
                 <div>
                   <label className='block font-semibold mb-2'>Domain</label>
-                  <div className='text-lg font-semibold'>zetatube.com</div>
+                  <div className='text-lg font-semibold px-4 py-3 border border-transparent rounded'>
+                    zetaurl.com
+                  </div>
                 </div>
-                <div className='text-2xl'>/</div>
+                <div>
+                  <label className='block font-semibold mb-2 opacity-0'>
+                    /
+                  </label>
+                  <div className='text-2xl py-3'>/</div>
+                </div>
                 <div className='flex-1'>
                   <label className='block font-semibold mb-2'>
                     Alias (optional)
