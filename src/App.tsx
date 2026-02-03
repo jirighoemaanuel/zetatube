@@ -7,10 +7,6 @@ function App() {
     <div className=''>
       <Nav></Nav>
       <Hero></Hero>
-      <Features></Features>
-      <div className='font-mono'>
-        <h1>Hello Emmanuel</h1>
-      </div>
     </div>
   );
 }

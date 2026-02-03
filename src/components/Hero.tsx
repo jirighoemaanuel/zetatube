@@ -9,12 +9,12 @@ function Hero() {
               URL Shortener, Branded Short Links & Analytics
             </h1>
             <p className='text-lg text-gray-200 mb-6'>
-              Welcome to the original link shortener — simplifying the Internet
-              through the power of the URL since 2002.
+              Welcome to the original link shortener
             </p>
             <p className='text-gray-300 mb-8'>
-              You can use branded domains for fully custom links, track link
-              analytics, and enjoy other powerful features with our paid plans.
+              Coming soon: You will be able to use branded domains for fully
+              custom links, track link analytics, and enjoy other powerful
+              features with our paid plans.
             </p>
             <div className='flex gap-4'>
               <button className='bg-white text-blue-900 px-8 py-3 rounded font-semibold hover:bg-gray-100'>
